@@ -1,7 +1,7 @@
 # BaseFactor
 Base Factor Platform to write factor
 
-## 1 BaseFactor
+## 1 BaseFactor.py
 Father Class for all stock factors. 
 
 ## Factor Files:
